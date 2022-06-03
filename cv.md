@@ -22,9 +22,13 @@ this is my first code where i made a popup menu
     nav.addEventListener('click', function(){
       this.nextElementSibling.classList.toggle('hover')
     })
+    
 ## Expirience
+
 my first projects
 https://github.com/Parle648/my-first-project.git <br/>
 https://github.com/Parle648/alivio.git
+
 ## English Level
+
 A1, but I'm trying to study it on my own!
