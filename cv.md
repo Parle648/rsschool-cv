@@ -21,7 +21,7 @@ this is my first code where i made a popup menu
 
     nav.addEventListener('click', function(){
       this.nextElementSibling.classList.toggle('hover')
-    })
+    });
     
 ## Expirience
 
