@@ -1,8 +1,7 @@
 # Morozov Olexandr
 ## contact
 1. email - sashahoumi@gmail.com
-2. number - +380662891914
-3. GitHub - Parle648
+2. GitHub - Parle648
 ## For me
 I am 16 years old, young novice developer ready for constant self-development and improvement of both personal and professional skills. I adapt to any non-standard conditions, I can work in a team, punctual and responsible.  
 ## Skils 
@@ -25,7 +24,7 @@ this is my first code where i made a popup menu
     
 ## Expirience
 
-my first projects
+my first projects<br/>
 https://github.com/Parle648/my-first-project.git <br/>
 https://github.com/Parle648/alivio.git
 
