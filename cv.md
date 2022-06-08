@@ -1,6 +1,6 @@
 # Morozov Olexandr
 ## contact
-1. email - sashahoumi@gmail.com
+1. email - parlevasilevic@gmail.com
 2. GitHub - Parle648
 ## For me
 I am 16 years old, young novice developer ready for constant self-development and improvement of both personal and professional skills. I adapt to any non-standard conditions, I can work in a team, punctual and responsible.  
